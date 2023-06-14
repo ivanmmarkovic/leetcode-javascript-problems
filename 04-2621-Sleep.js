@@ -1,12 +1,14 @@
-/**
- * @param {number} millis
- */
-
-
 /*
+https://leetcode.com/problems/sleep/
+
 Runtime 51 ms Beats 92.41%
 Memory 41.6 MB Beats 62.89%
 */
+
+
+/**
+ * @param {number} millis
+ */
 async function sleep(millis) {
     
     return new Promise((resolve,reject)=>{
