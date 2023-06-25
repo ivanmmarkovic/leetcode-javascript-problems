@@ -2,6 +2,15 @@
 /*
 https://leetcode.com/problems/array-prototype-last/
 
+Easy
+
+Write code that enhances all arrays 
+such that you can call the array.last() method 
+on any array and it will return the last element. 
+If there are no elements in the array, it should return -1.
+
+You may assume the array is the output of JSON.parse.
+
 Runtime 57 ms Beats 57.22%
 Memory 41.8 MB Beats 68.11%
 */
