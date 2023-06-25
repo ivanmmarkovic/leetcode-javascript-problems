@@ -1,6 +1,13 @@
 /*
 https://leetcode.com/problems/memoize/
 
+Easy
+
+Given a positive integer millis, 
+write an asynchronous function 
+that sleeps for millis milliseconds. 
+It can resolve any value.
+
 Runtime 473 ms Beats 6.23%
 Memory 103.4 MB Beats 89.79%
 */
